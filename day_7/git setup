@@ -11,3 +11,8 @@ git add.
 #first time
 git config --global user.name "aakashsharma2003" 
 git config --global user.email "aakashsharma3090@gmail.com"
+
+#daily commands
+git add.
+git commit -m "daily comment"
+git push origin master
