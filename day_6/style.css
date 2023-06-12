@@ -1,0 +1,90 @@
+/* color styling in css*/
+body{
+    background-color: rgb(62, 143, 186);
+}
+.heading {
+    background-color: #c9622a;
+}
+.para{
+    background-color: rgba(51, 170, 51, 0.3);
+   /* padding-left: 50%;
+    padding-right: 50%;
+    width: 40px;*/
+    text-align: center;
+
+}
+
+
+/* dimensions*/
+.box{
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    font-size: 2em;/*1em=16 px */
+}
+.heading{
+    /*width: 40%;*/
+    height: 100px;
+   /* margin: 100px 330px 30px 50px ;/*TRBL*/
+   margin: 100px 200px;/*vertical horizontal*/
+   /* margin: 30px;*/
+   /*margin-left: 50px;*/
+    
+   /*padding: 30px;*/
+   /*padding: 30%;*/
+   /*margin-left: auto;
+   margin-right: auto;
+   margin-top: auto;
+   margin-bottom: auto;*/
+   text-align: center;
+
+}
+img{
+    width: 100px;
+    height: 50px;
+    border: 10px solid red;
+    border-radius: 50%;
+}
+ /*display and portion*/
+ h3{
+    /*display: inline;*/
+ }
+ span{
+    width: 80px;
+    display: inline-block;
+
+ }
+ .box{
+    text-align: center;
+    border-radius: 50px;
+ }
+ div{
+   width: 100px;
+   height: 100px;
+    
+ }
+ .bbox1
+ {
+    background-color: red;
+
+ }
+ .bbox2{
+    background-color: blue;
+    position: absolute;
+    margin-block-end: -50px;
+
+ }
+.bbox3{
+    background-color: blueviolet;
+    position: relative;
+    bottom: 50px;
+    left:30px ;
+    margin-inline-start: 50px;
+
+}
+
+
+
+
+
+

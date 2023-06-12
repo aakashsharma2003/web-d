@@ -1,0 +1,28 @@
+/* class selector*/
+.first{
+    color: black;
+}
+
+
+/* id selector */
+#eklist{
+    background-color: brown;
+    
+}
+     .sahil{
+        font-size: larger;
+     }
+   /*attribute selector*/
+   a[href="C:\Users\AAkash\Desktop\f.s.web developememt\day_5\day_5.html"]{
+    color: blue;
+    text-decoration: none;
+   }
+
+
+
+
+body{
+    color: aquamarine;
+    background-color: darkmagenta;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

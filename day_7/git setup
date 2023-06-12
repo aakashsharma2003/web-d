@@ -1,0 +1,13 @@
+#first time
+git init
+
+
+
+git status
+
+
+git add.
+
+#first time
+git config --global user.name "aakashsharma2003" 
+git config --global user.email "aakashsharma3090@gmail.com"
